@@ -1,0 +1,4 @@
+python-dotenv
+langchain-community
+openai
+python-socketio 
